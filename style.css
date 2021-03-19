@@ -64,8 +64,8 @@ main {
 
 .img__box {
   position: absolute;
-  top: 43vh;
-  left: 8vw;
+  top: 42vh;
+  left: 9vw;
   z-index: 2;
   width: 15vw;
 }
